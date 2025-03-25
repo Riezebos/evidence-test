@@ -71,5 +71,6 @@ plugins:
     "@evidence-dev/duckdb": { }
     "@evidence-dev/source-javascript": { }
 
-    deployment:
-  basePath: /evidence-test
+  
+  deployment:
+    basePath: /evidence-test
