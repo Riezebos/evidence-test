@@ -72,5 +72,5 @@ plugins:
     "@evidence-dev/source-javascript": { }
 
   
-  deployment:
-    basePath: /evidence-test
+deployment:
+  basePath: /evidence-test
